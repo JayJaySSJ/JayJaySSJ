@@ -1,6 +1,6 @@
 <h2> Hello there! </h2>
 
-My name is Jakub and I'm a begginer backend developer with huge aspirations to become a meaningful part of entrusted projects.
+My name is Jakub and I'm a begginer Java developer with huge aspirations to become a meaningful part of entrusted projects.
 Now focusing on Java, not denying any other technologies in the coming future.
 
 <!---

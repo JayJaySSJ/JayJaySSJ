@@ -30,8 +30,8 @@ Now focusing on <i>Java</i>, not denying any other technologies in the coming fu
 
 <br/><br/><br/>
 
-<h2> Hobbies and personality</h2>  
-I love sharing my passion, mostly talking about sports like snowboarding, tennis, cycling or calisthenics. It works perfectly with programming, where intervals of sports give your mind a break, and then your body takes a rest when mind is focused on coding. It works, I encourage anyone reading that to try it ☜(ﾟヮﾟ☜) 
+<h2> Get to know me better</h2>  
+I love sharing my passion, mostly talking about sports like snowboarding, tennis, cycling or calisthenics. It works perfectly with programming, when intervals of sports give your mind a break, and then your body takes a rest when mind is focused on coding. It works, I encourage anyone reading that to try it ☜(ﾟヮﾟ☜) 
 
 <!---
 - 👋 Hi, I’m @JayJaySSJ

@@ -2,15 +2,16 @@
 <h1> Hello there! 👋</h1>
 
 
-My name is Jakub and I'm a begginer <i>Java</i> developer with huge aspirations to become a meaningful part of entrusted projects.
-Now focusing on <i>Java</i>, not denying any other technologies in the coming future.
+My name is Jakub and I'm a begginer <i>C#/.NET</i> developer with huge aspirations to become a meaningful part of entrusted projects.
+Now focusing on <i>C#</i>, but already curious about bunch of other languages and technologies.
 <br/>
 <br/>
 <p>
   <ul>
     <h4>As already mentioned</h4>
-  <li>Now mastering <i>Java</i> as a leading language,</li>
+  <li>Now mastering <i>C#</i> as a leading language,</li>
     <h4>But also</h4>
+  <li>Went through basics of <i>C++</i> and <i>Java</i>,</li>
   <li>Practicing with <i>SQL, PHP</i>,</li>
   <li>Regularly getting back to <i>HTML, CSS</i>
   <li>Every day dreaming big about growing my own developer career 🤞</li>

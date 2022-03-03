@@ -29,12 +29,13 @@ Now focusing on <i>C#</i>, but already curious about bunch of other languages an
 <img align="left" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="50px">
 <img align="left" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" width="50px">
 
+<!---
 <br/><br/><br/>
 
 <h2> Get to know me better</h2>  
 I love sharing my passion, mostly talking about sports like snowboarding, tennis, cycling or calisthenics. It works perfectly with programming, when intervals of sports give your mind a break, and then your body takes a rest when mind is focused on coding. It works, I encourage anyone reading that to try it ☜(ﾟヮﾟ☜) 
 
-<!---
+
 - 👋 Hi, I’m @JayJaySSJ
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

@@ -3,7 +3,7 @@
 
 
 My name is Jakub and I'm a begginer <i>C#/.NET</i> developer with huge aspirations to become a meaningful part of entrusted projects.
-Now focusing on <i>C#</i>, but already curious about bunch of other languages and technologies.
+Now focusing on <i>C#</i>, but already curious about bunch of other technologies.
 <br/>
 <br/>
 <p>
@@ -12,9 +12,7 @@ Now focusing on <i>C#</i>, but already curious about bunch of other languages an
   <li>Now mastering <i>C#</i> as a leading language,</li>
     <h4>But also</h4>
   <li>Went through basics of <i>C++</i> and <i>Java</i>,</li>
-  <li>Practicing with <i>SQL, PHP</i>,</li>
-  <li>Regularly getting back to <i>HTML, CSS</i>
-  <li>Every day dreaming big about growing my own developer career 🤞</li>
+  <li>Practiced with <i>SQL, PHP, HTML, CSS</i>,</li>
 </ul>
 </p>
   

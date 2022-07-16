@@ -2,7 +2,7 @@
 <h1> Hello there! 👋</h1>
 
 
-My name is Jakub and I'm a begginer <i>C#/.NET</i> developer with huge aspirations to become a meaningful part of entrusted projects.
+My name is Jakub and I'm a begginer <i><strong>.NET/C# developer</strong></i> with huge aspirations to become a meaningful part of entrusted projects.
 Now focusing on <i>C#</i>, but already curious about bunch of other technologies.
 <br/>
 <br/>

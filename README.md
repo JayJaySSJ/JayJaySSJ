@@ -1,7 +1,7 @@
 
 <h1> Hello there! 👋</h1>
 
-
+<!--
 My name is Jakub and I'm a begginer <i><strong>.NET/C# developer</strong></i> with huge aspirations to become a meaningful part of entrusted projects.
 Now focusing on <i>C#</i>, but already curious about bunch of other technologies.
 <br/>
@@ -15,7 +15,7 @@ Now focusing on <i>C#</i>, but already curious about bunch of other technologies
   <li>Practiced with <i>SQL, PHP, HTML, CSS</i>,</li>
 </ul>
 </p>
-  
+  -->
 <h2> Learning stack so far</h2>  
 <img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="50px">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width="50px">

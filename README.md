@@ -16,6 +16,7 @@ Now focusing on <i>C#</i>, but already curious about bunch of other technologies
 </ul>
 </p>
   -->
+  <!--
 <h2> Learning stack so far</h2>  
 <img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="50px">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width="50px">
@@ -26,7 +27,7 @@ Now focusing on <i>C#</i>, but already curious about bunch of other technologies
 <img align="left" src="https://cdn2.iconfinder.com/data/icons/strongicon-vol-24-free/24/filetype-16-512.png" width="50px">
 <img align="left" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="50px">
 <img align="left" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" width="50px">
-
+-->
 <!---
 <br/><br/><br/>
 
